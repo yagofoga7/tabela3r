@@ -1,0 +1,15 @@
+td, th{
+    border: 2px dotted;
+    border-radius: 5%;
+}
+table {
+    width: 80%;
+    border-collapse: collapse;
+  
+}
+
+.image{
+    background-image: url("../img/cr5.jpg");
+    background-size: cover;
+    height: 300px;
+}
